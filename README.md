@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**gigisilvah/gigisilvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é giovanna silva 
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e
+compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Voce entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Silvasoaresgiovanna6@gmail.com
+
+@gigi_silvah
+
+![](https://media1.tenor.com/m/aM3bvkNAdGsAAAAC/impressionism.gif)
